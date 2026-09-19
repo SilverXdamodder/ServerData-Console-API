@@ -1,2 +1,12 @@
-{ "45A4A5DB985D4DA4", "SilverX" },
-{ "A033681921D5661E", "SilverBepinex" },
+{
+  "admins": [
+    { "userId": "A033681921D5661E", "name": "SilverX" }
+  ],
+  "superAdmins": ["SilverX"],
+  "messageOfTheDayText": "Welcome",
+  "specialCosmetics": {},
+  "specialCosmeticsDetailed": {},
+  "hamburburStatus": "Undetected",
+  "latestMenuVersion": "7.1.0",
+  "minimumMenuVersion": "7.0.0"
+}
